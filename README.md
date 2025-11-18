@@ -53,11 +53,10 @@
 ---
 
 ## 🛠️ Developer Tools
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,pycharm,colab" />
-</br>
-![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,pycharm,postman" />
 </p>
+
 
 ---
 
