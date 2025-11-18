@@ -20,36 +20,19 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 
+---
 
 ## 🌐 Web Development
 <p align="center">
-
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,bootstrap,fastapi,php" />
-
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-<img src="https://skillicons.dev/icons?i=php,fastapi" />
-
 </p>
 
+---
 
-## 🤖 AI / ML / GenAI
+## 🤖 AI/ML 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />  
-
-
 <br/>
-
 <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Agents-4C8EDA?style=for-the-badge" />
@@ -59,34 +42,23 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-0C5A6B?style=for-the-badge&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Web%20Scraping-0A66C2?style=for-the-badge&logo=web&logoColor=white" />
-
-
-
-
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-4C8EDA?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0C5A6B?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-0A66C2?style=for-the-badge&logo=web&logoColor=white)
-
 </p>
 
-<!-- <p>RAG • LLMs • Agents • LangChain • CrewAI • Pandas • NumPy • Matplotlib • Web Scraping</p> -->
+---
 
-**Databases**  
+## 🗄️ Databases
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
-**Developer Tools**  
+---
+
+## 🛠️ Developer Tools
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,pycharm,colab" />
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 </p>
+
+---
 
 ## 📬 Connect With Me  
 <!--  **LinkedIn:** [Nikhitha Uppalapati](https://www.linkedin.com/in/nikhitha-uppalapati-b759b3292/)  -->
