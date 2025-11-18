@@ -24,6 +24,11 @@
 ## 🌐 Web Development
 <p align="center">
 
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,bootstrap,fastapi,php" />
+
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,31 +46,31 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />  
-<!-- LLMs -->
+
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-4C8EDA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-0C5A6B?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Scraping-0A66C2?style=for-the-badge&logo=web&logoColor=white" />
+
+
+
+
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
-
-<!-- RAG -->
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-
-<!-- AI Agents -->
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-4C8EDA?style=for-the-badge)
-
-<!-- LangChain -->
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-
-<!-- CrewAI -->
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
-
-<!-- Pandas -->
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-<!-- Numpy -->
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-<!-- Matplotlib -->
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C5A6B?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-<!-- Web Scraping -->
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-0A66C2?style=for-the-badge&logo=web&logoColor=white)
 
 </p>
@@ -84,8 +89,14 @@
 </p>
 
 ## 📬 Connect With Me  
+<!--  **LinkedIn:** [Nikhitha Uppalapati](https://www.linkedin.com/in/nikhitha-uppalapati-b759b3292/)  -->
+<p align="left">
+🔗
+<a href="https://www.linkedin.com/in/nikhitha-uppalapati-b759b3292/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 📧 **Email:** *nikitha3pvt@gmail.com*  
-🔗 **LinkedIn:** [Nikhitha Uppalapati](https://www.linkedin.com/in/nikhitha-uppalapati-b759b3292/)  
 
 ---
 
