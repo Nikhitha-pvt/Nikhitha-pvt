@@ -1,108 +1,70 @@
-## Hi there 👋
-
-
-<!-- PROFILE HEADER -->
+<!-- Centered Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=28&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Nikhitha+Uppalapati+👋;CS+Student+%7C+Full+Stack+%7C+AI%2FML+%7C+GenAI+Enthusiast;Always+Learning+DSA+%26+Building+Cool+Stuff+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=4C8EDA&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Nikhitha+Uppalapati+👋" />
 </p>
 
 ---
 
-## 👩‍💻 **About Me**
-- I'm a **Computer Science student** passionate about **Full Stack Development**, **AI/ML**, **GenAI**, and improving my logic with **DSA**.  
+## ✨ About Me
+- 🎓 CS Student passionate about **Full Stack**, **AI/ML**, **GenAI**, and **DSA**  
 - 🌱 Always learning, building, and exploring  
+- 💡 I love turning ideas into real projects, clean UI, and smart AI systems  
 - 💼 Looking for **internships** & **entry-level roles**  
-- 💡 I love turning ideas into real projects, clean UI, and smart AI systems 
 
 ---
 
-## 🌟 **Tech Stack**
+## 🛠 Tech Stack  
+<p align="center">
+  
+**Languages**  
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 
-### 🧑‍💻 Programming Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+**Web Development**  
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,fastapi" />
 
-### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+**AI / ML & Tools**  
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />  
+<p>RAG • LLMs • Agents • LangChain • CrewAI • Pandas • NumPy • Matplotlib • Web Scraping</p>
 
-### 🗄 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+**Databases**  
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
-### 🤖 AI / ML / GenAI  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?logo=matplotlib&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=yellow)
-![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-6A5ACD)
-![LangChain](https://img.shields.io/badge/LangChain-333333?logo=chainlink&logoColor=white)
-![Crew AI](https://img.shields.io/badge/CrewAI-000000)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE)
+**Developer Tools**  
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,pycharm,colab" />
 
-### 🛠 Developer Tools  
-![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+</p>
 
 
-
-## 📊 **GitHub Stats**
-
+## 📊 GitHub Insights  
 <div align="center">
+  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Nikhitha-pvt&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhitha-pvt&show_icons=true&theme=radical" height="180" />
+<img height="160" src="https://streak-stats.demolab.com?user=Nikhitha-pvt&theme=transparent" />
 
-<img src="https://streak-stats.demolab.com?user=Nikhitha-pvt&theme=radical" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhitha-pvt&layout=compact&theme=radical" height="180" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhitha-pvt&layout=compact&theme=transparent" />
 
 </div>
 
 ---
 
-## 🎨 **Aesthetic Dev Card**
+## 🌸 Minimal Aesthetic Divider  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhitha-pvt&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="60%" />
 </p>
 
 ---
 
-## 📬 **Contact Me**
-📧 **Email:** nikitha3pvt@gmail.com  
+## 📬 Connect With Me  
+📧 **Email:** *nikitha3pvt@gmail.com*  
 🔗 **LinkedIn:** [Nikhitha Uppalapati](https://www.linkedin.com/in/nikhitha-uppalapati-b759b3292/)  
 
 ---
 
-## 💡 Quote I Believe In  
-> 🌱 *“The best way to learn is by building.”*  
-
----
-
-
-
-<!--
-**Nikhitha-pvt/Nikhitha-pvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌿 Small Personal Note  
+> *Between classes, deadlines, and projects—I'm still showing up to build something better.*  
